@@ -18,20 +18,20 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Travelling",
+              "/category/travelling/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "About Me",
+              "/about-me/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Kerja Di Telkom",
+              "/category/kerja-di-telkom/"
             ],
             [
-              "About Us",
-              "/about-us/"
+              "Kuliah di Belanda",
+              "/category/kuliah-di-belanda/"
             ]
           ],
           "featured": {
