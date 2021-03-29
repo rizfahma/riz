@@ -383,11 +383,16 @@ const mediaStyle = (colors) => css`
     display: block;
   }
 
+  img {
+    border-radius: 10px;
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+
   svg,
-  img,
   embed,
   object {
-    border-radius: 10px;
     display: block;
     height: auto;
     max-width: 100%;
