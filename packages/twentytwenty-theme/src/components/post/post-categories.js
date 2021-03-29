@@ -50,7 +50,8 @@ const EntryCategoriesInner = styled.div`
 const CategoryTag = styled(Link)`
   background-color:#06867b;
   color: #ffffff;
-  padding: 5px;
+  padding: 7px;
+  border-radius: 5px;
   font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: 0.036666667em;

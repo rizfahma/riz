@@ -54,6 +54,7 @@ const Figure = styled.figure`
 `;
 
 const Image = styled(Img)`
+  border-radius: 10px;
   margin: 0 auto;
   max-width: 100%;
   display: block;
