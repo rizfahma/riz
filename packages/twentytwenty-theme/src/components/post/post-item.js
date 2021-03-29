@@ -138,7 +138,7 @@ const PostLink = styled(Link)`
   text-decoration: none;
   display: inline-block;
   &:hover {
-    text-decoration: underline;
+    color: #06867b;
   }
 `;
 
