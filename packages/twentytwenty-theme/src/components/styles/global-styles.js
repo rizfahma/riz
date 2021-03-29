@@ -387,6 +387,7 @@ const mediaStyle = (colors) => css`
   img,
   embed,
   object {
+    border-radius: 10px;
     display: block;
     height: auto;
     max-width: 100%;
