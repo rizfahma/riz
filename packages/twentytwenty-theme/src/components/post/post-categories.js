@@ -48,7 +48,9 @@ const EntryCategoriesInner = styled.div`
 `;
 
 const CategoryTag = styled(Link)`
-  border-bottom: 0.15rem solid currentColor;
+  background-color:#06867b;
+  color: #ffffff;
+  padding: 5px;
   font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: 0.036666667em;
