@@ -81,6 +81,6 @@ const MenuLink = styled(Link)`
 
   &:hover,
   &[aria-current="page"] {
-    text-decoration: underline;
+    color: #3d3d3d;
   }
 `;

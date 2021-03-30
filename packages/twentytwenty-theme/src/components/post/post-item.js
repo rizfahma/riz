@@ -134,7 +134,7 @@ export const PostTitle = styled.h1`
 `;
 
 const PostLink = styled(Link)`
-  color: #000000;
+  color: #3d3d3d;
   text-decoration: none;
   display: inline-block;
   &:hover {

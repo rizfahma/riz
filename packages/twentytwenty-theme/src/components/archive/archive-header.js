@@ -17,7 +17,7 @@ const Header = ({ label, children, labelColor }) => {
 export default Header;
 
 const ArchiveHeader = styled.header`
-  color: #000000;
+  color: #3d3d3d;
   text-align: center;
   background-color: #fff;
   padding: 4rem 0;
@@ -41,6 +41,6 @@ const ArchiveTitle = styled.h1`
 `;
 
 const ColoredText = styled.span`
-  color: ${(props) => props.color};
+  color: #3d3d3d;
   text-transform: capitalize;
 `;
