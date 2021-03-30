@@ -14,23 +14,23 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Home",
+              " 🏠 Home",
               "/"
             ],
             [
-              "Travelling",
+              "🎒 Travelling",
               "/category/travelling/"
             ],
             [
-              "About Me",
+              "🙋🏻‍♂️ About Me",
               "/about-me/"
             ],
             [
-              "Kerja Di Telkom",
+              "💼 Kerja Di Telkom",
               "/category/kerja-di-telkom/"
             ],
             [
-              "Kuliah di Belanda",
+              "👨🏻‍🎓 Kuliah di Belanda",
               "/category/kuliah-di-belanda/"
             ]
           ],
