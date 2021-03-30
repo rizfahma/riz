@@ -156,7 +156,7 @@ export const EntryContent = styled.div`
   letter-spacing: normal;
 
   @media (min-width: 700px) {
-    font-size: 2.1rem;
+    font-size: 1.9rem;
   }
 
   > *:first-of-type {
