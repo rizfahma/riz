@@ -150,9 +150,9 @@ export const PostInner = styled(SectionContainer)`
 `;
 
 export const EntryContent = styled.div`
-  line-height: 1.5;
+  line-height: 1.3;
   max-width: 58rem;
-  font-family: "Hoefler Text", Garamond, "Times New Roman", serif;
+  font-family: "Inter", Garamond, "Times New Roman", serif;
   letter-spacing: normal;
 
   @media (min-width: 700px) {
