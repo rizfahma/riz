@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "22fd50d1e09ac14bc601",
+  "hash": "48aa10267081f6ab24cb",
   "publicPath": "/static/",
   "outputPath": "/Users/rizqi/rizfront/build/static",
   "assetsByChunkName": {
@@ -26,7 +26,7 @@
     },
     {
       "name": "archive~post.module.js",
-      "size": 120185,
+      "size": 120336,
       "chunks": [
         "archive~post"
       ],
@@ -140,7 +140,7 @@
     },
     {
       "name": "rizfront.module.js",
-      "size": 7161753,
+      "size": 7163051,
       "chunks": [
         "rizfront"
       ],
@@ -232,14 +232,14 @@
       "initial": false,
       "entry": false,
       "reason": "split chunk (cache group: default) (name: archive~post)",
-      "size": 82232,
+      "size": 82350,
       "names": [
         "archive~post"
       ],
       "files": [
         "archive~post.module.js"
       ],
-      "hash": "aa0e675f8023a0b06337",
+      "hash": "c1218e1d73c4c7007e5c",
       "siblings": [
         "archive",
         "post"
@@ -283,14 +283,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 2081451,
+      "size": 2082778,
       "names": [
         "rizfront"
       ],
       "files": [
         "rizfront.module.js"
       ],
-      "hash": "4123a3bfdc287be18582",
+      "hash": "75909f6d1a08502f7c3c",
       "siblings": [],
       "parents": [],
       "children": [
